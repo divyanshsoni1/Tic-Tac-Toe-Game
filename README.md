@@ -1,2 +1,2 @@
-First game 
-My first achievment
+My First game <br>
+My first achievment...
